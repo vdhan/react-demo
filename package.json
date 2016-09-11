@@ -1,0 +1,18 @@
+{
+	"name": "react-demo",
+	"version": "1.0.0",
+	"license": "AGPL-3.0",
+	"repository": {},
+	"description": "react demo",
+	"dependencies": {
+		"react": "",
+		"react-dom": ""
+	},
+	"devDependencies": {
+		"webpack": "",
+		"babel-loader": "",
+		"babel-core": "",
+		"babel-preset-react": "",
+		"babel-preset-es2015": ""
+	}
+}
